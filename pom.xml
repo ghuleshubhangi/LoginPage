@@ -8,15 +8,12 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 		
-		<groupId>com.sarav</groupId>
-<artifactId>TomcatMavenApp</artifactId>
-<version>0.0.1-SNAPSHOT</version>
-<packaging>war</packaging>
-		
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>Loginpage</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	
 	<name>Loginpage</name>
 	<description>Loginpage</description>
 	<properties>
